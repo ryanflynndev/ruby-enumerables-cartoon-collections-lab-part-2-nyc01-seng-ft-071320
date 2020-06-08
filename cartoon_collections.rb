@@ -33,4 +33,6 @@ def find_valid_calls(planeteer_calls)
         return valid_calls[count]
       end
     count += 1
+    end
+  end
 end
